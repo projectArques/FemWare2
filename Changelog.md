@@ -1,3 +1,2 @@
-Updated Emulator (Made By Oracle)
-Fixed HookFunc
-Released FemWare
+- Updated UI Size
+- Added Auto Updating to the UI
