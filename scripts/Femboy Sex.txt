@@ -1,0 +1,4 @@
+notes
+-----
+remember to rebind the fly key
+hub password is in the gist
